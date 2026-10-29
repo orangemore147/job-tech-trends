@@ -1,0 +1,42 @@
+# SYNTHETIC DATA: fictional companies and job postings generated for demo purposes only. Not real listings.
+company,title,country,date_posted,technologies
+Vandelay Retail,Junior Data Engineer,GB,2026-07-12,spark;aws;sql;python;dbt
+Stark Fintech,Frontend Engineer,TW,2026-07-14,javascript;css;react;typescript;nextjs
+Hooli Health,Senior Backend Engineer,FR,2026-07-15,kubernetes;postgresql;java
+Northwind Cloud,Data Engineer,US,2026-07-18,sql;python;snowflake;airflow;dbt
+Umbrella Robotics,Senior ML Engineer,GB,2026-07-18,pytorch;python;sql
+Initech Data,Senior Data Engineer,FR,2026-07-18,snowflake;python;aws;dbt;spark
+Pied Piper AI,Frontend Engineer,DE,2026-07-19,nextjs;javascript;css
+Vandelay Retail,ML Engineer,CA,2026-07-19,aws;python;pytorch
+Stark Fintech,Junior Data Engineer,TW,2026-07-19,python;aws;snowflake;spark;sql
+Umbrella Robotics,ML Engineer,GB,2026-07-23,kubernetes;aws;sql;pytorch
+Wayne Logistics,Junior ML Engineer,DE,2026-08-05,kubernetes;python;pytorch;sql
+Northwind Cloud,Backend Engineer,CA,2026-08-05,postgresql;kubernetes;python
+Acme Analytics,Senior Frontend Engineer,DE,2026-08-06,css;nextjs;typescript;react;javascript
+Initech Data,ML Engineer,US,2026-08-06,tensorflow;kubernetes;sql;aws;pytorch
+Umbrella Robotics,DevOps Engineer,FR,2026-08-08,aws;kubernetes;docker
+Hooli Health,Junior Backend Engineer,GB,2026-08-09,aws;go;python
+Stark Fintech,Junior Frontend Engineer,CA,2026-08-11,typescript;nextjs;react
+Pied Piper AI,Senior Backend Engineer,TW,2026-08-13,java;kubernetes;aws;python;go
+Initech Data,ML Engineer,GB,2026-08-15,kubernetes;sql;python
+Northwind Cloud,ML Engineer,FR,2026-08-23,python;tensorflow;kubernetes
+Stark Fintech,Junior Backend Engineer,US,2026-09-01,aws;go;java;docker
+Umbrella Robotics,Junior DevOps Engineer,DE,2026-09-06,gcp;terraform;kubernetes
+Hooli Health,Junior Frontend Engineer,DE,2026-09-12,react;typescript;css;nextjs
+Northwind Cloud,DevOps Engineer,CA,2026-09-13,terraform;gcp;kubernetes
+Northwind Cloud,Backend Engineer,TW,2026-09-15,postgresql;java;kubernetes;aws;go
+Stark Fintech,Junior ML Engineer,DE,2026-09-16,tensorflow;python;pytorch;aws
+Initech Data,Senior Data Engineer,GB,2026-09-16,python;sql;airflow
+Pied Piper AI,Senior Full Stack Developer,GB,2026-09-23,docker;typescript;postgresql
+Northwind Cloud,Senior DevOps Engineer,FR,2026-09-25,kubernetes;aws;terraform;gcp;python
+Initech Data,Junior Frontend Engineer,GB,2026-09-26,css;react;nextjs
+Pied Piper AI,Senior DevOps Engineer,GB,2026-10-02,gcp;terraform;python
+Vandelay Retail,Senior Data Engineer,FR,2026-10-05,sql;dbt;snowflake;python;airflow
+Northwind Cloud,Junior DevOps Engineer,US,2026-10-08,kubernetes;gcp;python;docker;terraform
+Acme Analytics,Senior Data Engineer,GB,2026-10-10,snowflake;sql;airflow;dbt;python
+Pied Piper AI,Backend Engineer,US,2026-10-15,python;java;kubernetes;docker
+Globex Labs,Data Engineer,GB,2026-10-16,dbt;sql;aws;python
+Pied Piper AI,Full Stack Developer,CA,2026-10-17,postgresql;docker;nodejs;typescript
+Pied Piper AI,Junior Frontend Engineer,TW,2026-10-17,css;typescript;react;nextjs;javascript
+Acme Analytics,DevOps Engineer,FR,2026-10-21,aws;terraform;docker;gcp;kubernetes
+Wayne Logistics,Senior Backend Engineer,TW,2026-10-24,go;docker;postgresql;python
